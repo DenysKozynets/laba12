@@ -13,6 +13,7 @@
   transition: background 0.5s ease-in-out;
 }
 
+
 .App:hover {
   background: linear-gradient(135deg, #1c1c1c, #0d0d0d);
 }
