@@ -3,6 +3,7 @@ import CardList from "./components/CardList/CardList";
 import { cardsData } from "./data";
 import "./App.css";
 
+
 function App() {
   return (
     <main className="App">
